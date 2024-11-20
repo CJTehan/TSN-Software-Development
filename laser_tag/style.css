@@ -1,0 +1,96 @@
+body
+{
+     font-family: arial, sans-serif;
+     text-align: center;
+}
+
+h1, 
+p, 
+a{
+     margin: 2;
+     padding: 0;
+     font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1
+{
+     font-size: 12pt;
+     padding: 20px 0;
+     font-style: italic;
+}
+
+p
+{
+     font-size: 10pt;
+     font-style: bold;
+     letter-spacing: normal;
+}
+
+.banner {
+     width: 100%;
+     padding:60px 0;
+     text-align: center;
+     background: darkblue;
+     color: lightsalmon;
+   }
+   
+   
+   .btn-bgstroke {
+     font-size: 20px;
+     display: inline-block;
+     border: 1px solid white;
+     padding: 10px 20px;
+     border-radius: 10px;
+     cursor: pointer;
+     font-weight: 300;
+     margin-top: 30px; 
+   }
+
+
+.container
+{
+     width: 80%;
+     margin: 0 auto;
+     padding: 20px;
+     border: 3px lightgrey;
+     border-radius: 25px;
+}
+
+.button-link
+{
+         display: inline-flexbox;
+         padding: 15px 30px;
+         background-color: orange;
+         color: black;
+         text-decoration: palegreen
+         none; border: red;
+
+
+}
+
+h1, h2, h3
+{
+     color: darkgrey;
+}
+
+ul, ol
+{
+     text-align: left;
+     padding-left: 20px;
+}
+
+#newOfferInput
+{
+     padding: 2em;
+     margin-bottom: 50px;
+     border: 1px solid #ccc;
+     border-radius: 3px;
+}
+
+#userOffers
+{
+     text-align: left;
+     padding-left: 15px;
+     list-style: circle; /* Use bullet points for user-added offers */
+}
