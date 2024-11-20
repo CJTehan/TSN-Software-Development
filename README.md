@@ -1,0 +1,2 @@
+# TSN-Software-Development
+Using this repository will be used primarily to showcase the code I have done during my skills bootcamp. Primary use of Python with it's libraries. Showcasing the more complex code we worked with
